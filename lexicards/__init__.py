@@ -1,0 +1,1 @@
+"""LexiCards offline vocabulary trainer."""

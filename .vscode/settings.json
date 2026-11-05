@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+  "search.exclude": {"**/.venv": true, "**/build": true, "**/dist": true, "**/smoke-results": true}
+}

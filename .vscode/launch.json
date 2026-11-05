@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [{
+    "name": "Lexivane：调试开发版（独立测试词库）",
+    "type": "debugpy",
+    "request": "launch",
+    "program": "${workspaceFolder}/main.py",
+    "args": ["--dev"],
+    "cwd": "${workspaceFolder}",
+    "console": "integratedTerminal",
+    "justMyCode": true
+  }]
+}

@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+build/
+dist/
+*.spec
+*.sqlite3*
+*.db
+*.db-wal
+*.db-shm
+*.log
+Lexivane-backup*.json
+LexiCards-backup*.json
+before-restore-*.json
+/backups/
+/data/
+smoke-results/
